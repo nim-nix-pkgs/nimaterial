@@ -11,6 +11,7 @@
   inputs.src-nimaterial-master.ref   = "refs/heads/master";
   inputs.src-nimaterial-master.owner = "momeemt";
   inputs.src-nimaterial-master.repo  = "nimaterial";
+  inputs.src-nimaterial-master.dir   = "";
   inputs.src-nimaterial-master.type  = "github";
   
   inputs."palette".owner = "nim-nix-pkgs";
