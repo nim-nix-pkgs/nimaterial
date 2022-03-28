@@ -11,7 +11,6 @@
   inputs.src-nimaterial-ver_0_3_0.ref   = "refs/tags/ver.0.3.0";
   inputs.src-nimaterial-ver_0_3_0.owner = "momeemt";
   inputs.src-nimaterial-ver_0_3_0.repo  = "nimaterial";
-  inputs.src-nimaterial-ver_0_3_0.dir   = "";
   inputs.src-nimaterial-ver_0_3_0.type  = "github";
   
   inputs."palette".owner = "nim-nix-pkgs";
